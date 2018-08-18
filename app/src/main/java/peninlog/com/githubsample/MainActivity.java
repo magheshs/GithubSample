@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "another local", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "another local", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "another local", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "another local", Toast.LENGTH_SHORT).show();
     }
 }
