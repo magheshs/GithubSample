@@ -13,7 +13,7 @@ android {
     signingConfigs {
         release {
             storeFile file("keystore.jks")
-            storePassword "admin123 "
+            storePassword "admin123"
             keyAlias "github"
             keyPassword "admin123"
         }
